@@ -18,3 +18,8 @@ ReactDOM.render(
   </ApolloProvider>,
   document.getElementById("root")
 );
+
+/* APOLLO_KEY=service:Catstronauts-Lift-off-xe0rei:••••••••••••••••••••••
+APOLLO_GRAPH_REF=Catstronauts-Lift-off-xe0rei@current
+APOLLO_SCHEMA_REPORTING=true
+ */
